@@ -1,0 +1,12 @@
+2024-07-15 11:55:07,319 - INFO - Arquivo CSV lido com sucesso.
+2024-07-15 11:55:07,326 - INFO - Tabela lida:
+                       codigos  Unnamed: 1
+0  https://wa.me/5511952236897         NaN
+1  https://wa.me/5511982939292         NaN
+2  https://wa.me/5511952236897         NaN
+3  https://wa.me/5511982939292         NaN
+2024-07-15 11:55:07,326 - INFO - Lendo o código do cliente: https://wa.me/5511952236897
+2024-07-15 11:55:34,482 - INFO - Lendo o código do cliente: https://wa.me/5511982939292
+2024-07-15 11:56:01,581 - INFO - Lendo o código do cliente: https://wa.me/5511952236897
+2024-07-15 11:56:28,709 - INFO - Lendo o código do cliente: https://wa.me/5511982939292
+2024-07-15 11:56:55,798 - INFO - Fim da tabela.

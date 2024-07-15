@@ -1,0 +1,9 @@
+2024-07-15 11:22:36,937 - INFO - Arquivo CSV lido com sucesso.
+2024-07-15 11:22:36,947 - INFO - Tabela lida:
+                       codigos  Unnamed: 1
+0  https://wa.me/5511952236897         NaN
+1  https://wa.me/5511982939292         NaN
+2  https://wa.me/5511952236897         NaN
+3  https://wa.me/5511982939292         NaN
+2024-07-15 11:22:36,948 - INFO - Lendo o código do cliente: https://wa.me/5511952236897
+2024-07-15 11:22:57,005 - ERROR - Erro: O script foi interrompido pelo usuário movendo o mouse para o canto da tela.
