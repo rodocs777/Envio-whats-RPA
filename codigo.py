@@ -1,6 +1,8 @@
 # _*_ coding: utf-8 _*_
 
 import pandas
+import os
+import logging
  
 # Cria o dir "Logs" se ele não existir
 os.makedirs("C:/automacao/Logs", exist_ok=True)
@@ -22,9 +24,6 @@ caminho_imagem = r'C:\automacao\imagem'
 # Caminho absoluto para os arquivos
 caminho_csv = r"C:\automacao\tabela\clientes.csv"
 caminho_imagem_iniciar_conversa = r"C:\automacao\frames\iniciar_conversa.png"
-caminho_imagem_caiu_whats = r"C:\automacao\frames\caiu_whats.png"
-caminho_digitesuamensagem = r"C:\automacao\frames\digitesuamensagem.png"
-caminho_usar_whatsweb = r"C:\automacao\frames\usar_whatsweb.png"
 caminho_campo_mensagem = r"C:\automacao\frames\campo_mensagem.png"
 
 # Ler o conteúdo do arquivo de texto
