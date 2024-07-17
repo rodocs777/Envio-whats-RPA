@@ -1,5 +1,6 @@
 # _*_ coding: utf-8 _*_
 
+<<<<<<< HEAD
 import pyautogui
 import time
 import pandas as pd
@@ -7,6 +8,11 @@ import logging
 import os
 import datetime
 import pyperclip
+=======
+import pandas
+import os
+import logging
+>>>>>>> 13de3220c303c351f38e2fcb9cc056797367f091
  
 # Cria o dir "Logs" se ele não existir
 os.makedirs("C:/automacao/Logs", exist_ok=True)
